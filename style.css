@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+body{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+p{
+    font-weight: 400;
+}
+h1,h2{
+    font-weight: 600;
+}
+.bg-mandala{
+    background-color: #995a5a;
+}
+.text-mandala{
+    color: #632626;
+}
+.btn-mandala{
+    color: #632626;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.icon{
+    color:white;
+    width: 4rem;
+    height: 4rem;
+}
