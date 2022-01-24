@@ -26,3 +26,7 @@ h1,h2{
     width: 4rem;
     height: 4rem;
 }
+.mdi-36px {
+    font-size: 39px;
+    margin-right: 10px
+}
